@@ -22,6 +22,7 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
 
    introduction
    installation
+   commandes
    toolbox
    tutoriels   
    references
