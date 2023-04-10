@@ -21,12 +21,9 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    :caption: Sommaire
 
    introduction
-   licence
    installation
    toolbox
    tutoriels   
-   python
-   versions
    references
    contact
 
