@@ -368,116 +368,116 @@ Permet d'activer ou désactiver l'accrochage sur un profil en long.
                :scale: 50%  
 
 Annotation
-==========
+**********
 
-|text| Ajouter un texte
-^^^^^^^^^^^^^^^^^^^^^^^
+|add_text| Add a text
+^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter un texte.
 
-.. |text| image:: ./icons/text.png
-          :scale: 50% 
+.. |add_text| image:: ./icons/add_text.png
+              :scale: 50% 
           
-|verticalAnnotation| Ajouter une annotation verticale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|add_vertical_annotation| Add a vertical annotation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter une annotation verticale.
 
-.. |verticalAnnotation| image:: ./icons/verticalAnnotation.png
-                        :scale: 50% 
+.. |add_vertical_annotation| image:: ./icons/add_vertical_annotation.png
+                             :scale: 50% 
                         
-|horizontalAnnotation| Ajouter une annotation horizontale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|add_horizontal_annotation| Add a horizontal annotation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter une annotation horizontale.
 
-.. |horizontalAnnotation| image:: ./icons/horizontalAnnotation.png
-                          :scale: 50% 
+.. |add_horizontal_annotation| image:: ./icons/add_horizontal_annotation.png
+                               :scale: 50% 
                           
-|interval| Ajouter un intervalle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|add_interval| Add an interval
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter un intervalle.
 
-.. |interval| image:: ./icons/interval.png
-              :scale: 50% 
+.. |add_interval| image:: ./icons/add_interval.png
+                  :scale: 50% 
 
-|rectangle| Ajouter un rectangle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|add_rectangle| Add a rectangle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter un rectangle.
 
-.. |rectangle| image:: ./icons/rectangle.png
-               :scale: 50% 
+.. |add_rectangle| image:: ./icons/add_rectangle.png
+                   :scale: 50% 
                
-|polygon| Ajouter un polygone
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|add_polygon| Add a polygon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter un polygone.
 
-.. |polygon| image:: ./icons/polygon.png
-             :scale: 50% 
+.. |add_polygon| image:: ./icons/add_polygon.png
+                 :scale: 50% 
 
-|arc| Ajouter un arc
+|add_arc| Add an arc
 ^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter un arc d'ellipse.
 
-.. |arc| image:: ./icons/arc.png
-         :scale: 50% 
+.. |add_arc| image:: ./icons/add_arc.png
+             :scale: 50% 
              
-|adjustAnnotations| Ajuster
+|adjust_annotations| Adjust
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajuster les annotations sélectionnées.
 
-.. |adjustAnnotations| image:: ./icons/adjustAnnotations.png
-                       :scale: 50% 
+.. |adjust_annotations| image:: ./icons/adjust_annotations.png
+                        :scale: 50% 
              
-Ajouter un groupe
-^^^^^^^^^^^^^^^^^
+Add a group
+^^^^^^^^^^^
                 
 Permet d'ajouter un groupe d'annotations.
 
-Renommer le groupe
-^^^^^^^^^^^^^^^^^^
+Rename current group
+^^^^^^^^^^^^^^^^^^^^
                 
 Permet de renommer le groupe d'annotations courant.
 
-Supprimer des groupes
-^^^^^^^^^^^^^^^^^^^^^
+Delete groups
+^^^^^^^^^^^^^
                 
 Permet de supprimer des groupes d'annotations.
 
-|groupsManager| Gestion des groupes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|groups_manager| Groups manager
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet de gérer les groupes d'annotations.
 
-.. |groupsManager| image:: ./icons/groupsManager.png
-                   :scale: 50% 
+.. |groups_manager| image:: ./icons/groups_manager.png
+                    :scale: 50% 
                    
-|annotations2reminderLines| Annotations vers lignes de rappel
+|annotations_to_reminder_lines| Annotations to reminder lines
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet de générer les lignes de rappel des annotations sélectionnées.
 
-.. |annotations2reminderLines| image:: ./icons/annotations2reminderLines.png
-                              :scale: 50% 
+.. |annotations_to_reminder_lines| image:: ./icons/annotations_to_reminder_lines.png
+                                   :scale: 50% 
                               
-|reminderLinesManager| Gestion des lignes de rappel
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|reminder_lines_manager| Reminder lines manager
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet de gérer les lignes de rappel.
 
-.. |reminderLinesManager| image:: ./icons/reminderLinesManager.png
-                          :scale: 50% 
+.. |reminder_lines_manager| image:: ./icons/reminder_lines_manager.png
+                            :scale: 50% 
 
 Toolbox
-=======
+*******
 
-|toolbox| Boîte à outils
-^^^^^^^^^^^^^^^^^^^^^^^^
+|toolbox| Toolbox
+^^^^^^^^^^^^^^^^^
                 
 Permet d'activer ou désactiver l'affichage de la boîte à outils.
 
@@ -485,38 +485,38 @@ Permet d'activer ou désactiver l'affichage de la boîte à outils.
              :scale: 50% 
 
 
-Autres données
-==============
+Extra data
+**********
 
-|extraData| Importer d'autres données
+|import_extra_data| Import extra data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'importer d'autres données.
 
-.. |extraData| image:: ./icons/extraData.png
-               :scale: 50% 
+.. |import_extra_data| image:: ./icons/import_extra_data.png
+                       :scale: 50% 
 
 Ressources
-==========
+**********
 
-|rtfdocs| Documentation
-^^^^^^^^^^^^^^^^^^^^^^^
+|rtfdocs| www.pylong-onf-rtm.rtfd.io
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Permet d'accéder au site web de pyLong.
 
 .. |rtfdocs| image:: ./icons/rtfdocs.png
              :scale: 50% 
              
-|about| A propos de pyLong
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+|about_pylong| About pyLong
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Permet d'afficher des informations au sujet de pyLong.
 
-.. |about| image:: ./icons/about.png
-           :scale: 50% 
+.. |about_pylong| image:: ./icons/about_pylong.png
+                  :scale: 50% 
 
-|onf| ONF
-^^^^^^^^^
+|onf| www.onf.fr
+^^^^^^^^^^^^^^^^
 
 Permet d'accéder au site web de l'ONF.
 
