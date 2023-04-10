@@ -20,8 +20,8 @@ Permet d'ouvrir un projet pyLong.
 .. |open| image:: ./icons/open.png
           :scale: 50%
 
-Open recents
-^^^^^^^^^^^^
+Open recent
+^^^^^^^^^^^
 
 Permet d'ouvrir un projet pyLong récent.
 
@@ -351,7 +351,7 @@ Permet d'activer ou désactiver le mode ajout de point.
 .. |add_point| image:: ./icons/add_point.png
                :scale: 50%  
 
-|delete_point| DElete a point
+|delete_point| Delete a point
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'activer ou désactiver le mode suppression de point.
