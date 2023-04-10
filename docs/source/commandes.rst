@@ -34,8 +34,8 @@ Permet d'enregistrer le projet courant.
           :scale: 50%
 
 
-|save_as| Save a... (Ctrl + Shift + S)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|save_as| Save as... (Ctrl + Shift + S)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Permet d'enregistrer le projet courant à un nouvel emplacement.
 
