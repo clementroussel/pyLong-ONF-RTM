@@ -434,8 +434,8 @@ Permet d'ajouter un arc d'ellipse.
 .. |add_arc| image:: ./icons/add_arc.png
              :scale: 50% 
              
-|import_vertical_annotations| Import vertial annotations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|import_vertical_annotations| Import vertical annotations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'importer plusieurs annotations verticales.
 
@@ -455,7 +455,7 @@ Permet de créer un polygone à partir d'un profil en long.
 Polygon from two profiles
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Permet de créer un polygone delimité par deux profils en long.
+Permet de créer un polygone délimité par deux profils en long.
 
 |adjust| Adjust
 ^^^^^^^^^^^^^^^
