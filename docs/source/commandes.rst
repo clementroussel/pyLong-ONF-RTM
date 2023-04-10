@@ -377,6 +377,14 @@ Permet d'ajouter un texte.
 
 .. |add_text| image:: ./icons/add_text.png
               :scale: 50% 
+
+|add_line| Add a line
+^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'ajouter une ligne.
+
+.. |add_line| image:: ./icons/add_line.png
+              :scale: 50% 
           
 |add_vertical_annotation| Add a vertical annotation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -426,13 +434,36 @@ Permet d'ajouter un arc d'ellipse.
 .. |add_arc| image:: ./icons/add_arc.png
              :scale: 50% 
              
-|adjust_annotations| Adjust
+|import_vertical_annotations| Import vertial annotations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'importer plusieurs annotations verticales.
+
+.. |import_vertical_annotations| image:: ./icons/import_vertical_annotations.png
+                                 :scale: 50% 
+
+Import polygon coordinates
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'importer les coordonnées d'un polygone depuis un fichier .txt.
+
+Polygon from single profile
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Permet de créer un polygone à partir d'un profil en long.
+                
+Polygon from two profiles
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Permet de créer un polygone delimité par deux profils en long.
+
+|adjust| Adjust
+^^^^^^^^^^^^^^^
                 
 Permet d'ajuster les annotations sélectionnées.
 
-.. |adjust_annotations| image:: ./icons/adjust_annotations.png
-                        :scale: 50% 
+.. |adjust| image:: ./icons/adjust.png
+            :scale: 50% 
              
 Add a group
 ^^^^^^^^^^^
