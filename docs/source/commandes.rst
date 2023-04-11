@@ -335,6 +335,14 @@ Permet de fusionner deux profils en long.
 .. |merge| image:: ./icons/merge.png
            :scale: 50% 
 
+|intersections| Intersections
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet de calculer les intersections de deux profils en long.
+
+.. |intersections| image:: ./icons/intersections.png
+                   :scale: 50% 
+
 |interactive_edition| Interactive edition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
@@ -417,14 +425,6 @@ Permet d'ajouter un rectangle.
 
 .. |add_rectangle| image:: ./icons/add_rectangle.png
                    :scale: 50% 
-               
-|add_polygon| Add a polygon
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                
-Permet d'ajouter un polygone.
-
-.. |add_polygon| image:: ./icons/add_polygon.png
-                 :scale: 50% 
 
 |add_arc| Add an arc
 ^^^^^^^^^^^^^^^^^^^^
@@ -442,6 +442,24 @@ Permet d'importer plusieurs annotations verticales.
 .. |import_vertical_annotations| image:: ./icons/import_vertical_annotations.png
                                  :scale: 50% 
 
+|polygon_from_txt| Polygon from .txt file
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'ajouter un polygone depuis un fichier .txt.
+
+.. |polygon_from_txt| image:: ./icons/polygon_from_txt.png
+                      :scale: 50% 
+
+Polygon from single profile
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'ajouter un polygone depuis un profil en long.
+
+Polygon from two profiles
+^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'ajouter un polygone depuis deux profils en long.
+
 Import polygon coordinates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
@@ -457,13 +475,13 @@ Polygon from two profiles
 
 Permet de créer un polygone délimité par deux profils en long.
 
-|adjust| Adjust
-^^^^^^^^^^^^^^^
+|adjust_annotations| Adjust annotations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajuster les annotations sélectionnées.
 
-.. |adjust| image:: ./icons/adjust.png
-            :scale: 50% 
+.. |adjust_annotations| image:: ./icons/adjust_annotations.png
+                        :scale: 50% 
              
 Add a group
 ^^^^^^^^^^^
