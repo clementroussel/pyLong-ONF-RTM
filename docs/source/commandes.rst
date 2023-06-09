@@ -57,6 +57,8 @@ Permet d'éditer les valeurs et/ou les paramètres de définition de l'objet sé
 
 .. |edit| image:: ./icons/edit.png
           :scale: 50%
+
+- Cette commande est sans effet sur les objets de type **Extra data**.
           
 |style| Style
 ^^^^^^^^^^^^^
@@ -65,6 +67,8 @@ Permet d'éditer le style graphique de l'objet sélectionné.
 
 .. |style| image:: ./icons/style.png
            :scale: 50%
+
+- Cette commande est sans effet sur les objets de type **Mezap**.
            
 |copy_style| Copy style (Ctrl + Alt + C)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -73,6 +77,8 @@ Permet de copier le style de l'objet sélectionné.
 
 .. |copy_style| image:: ./icons/copy_style.png
                 :scale: 50%
+
+- Cette commande est sans effet sur les objets de type **Mezap**.
                
 |paste_style| Paste style (Ctrl + Alt + V)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -81,24 +87,18 @@ Permet d'appliquer le style copié aux objets sélectionnés.
 
 .. |paste_style| image:: ./icons/paste_style.png
                  :scale: 50%
+
+- Cette commande est sans effet sur les objets de type **Mezap**.
                 
-Export style
-^^^^^^^^^^^^
+Save style
+^^^^^^^^^^
 
 Permet d'exporter le style de l'objet sélectionné.
 
-Import style
-^^^^^^^^^^^^
+Load style
+^^^^^^^^^^
 
 Permet d'importer et d'appliquer un fichier de style aux objets sélectionnés.
-
-|export_values| Export values
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                
-Permet d'exporter les valeurs de l'objet sélectionnée vers un fichier .txt.
-
-.. |export_values| image:: ./icons/export_values.png
-                   :scale: 50% 
 
 |duplicate| Duplicate (Ctrl + D)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -115,6 +115,14 @@ Permet de retourner les objets sélectionnés.
 
 .. |reverse| image:: ./icons/reverse.png
              :scale: 50%
+
+|export_values| Export values
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'exporter les valeurs de l'objet sélectionné vers un fichier .txt.
+
+.. |export_values| image:: ./icons/export_values.png
+                   :scale: 50% 
                
 |delete| Delete (Suppr)
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -197,14 +205,17 @@ Permet d'ajuster la taille du canvas en hauteur.
 
 .. |adjust_canvas_height| image:: ./icons/adjust_canvas_height.png
                           :scale: 50%
-
-Show message dialogs
-^^^^^^^^^^^^^^^^^^^^   
-                
-Permet d'activer ou désactiver l'affichage des boîtes de dialogue de messages.
  
 Figure
 ******
+
+|quick_adjust| Quick adjustment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
+                
+Permet d'ajuster rapidement les limites des axes de la figure selon le profil en long sélectionné.
+
+.. |quick_adjust| image:: ./icons/quick_adjust.png
+                  :scale: 50%
 
 Add a layout
 ^^^^^^^^^^^^
@@ -343,6 +354,14 @@ Permet de calculer les intersections de deux profils en long.
 .. |intersections| image:: ./icons/intersections.png
                    :scale: 50% 
 
+|statistics| Statistics
+^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'afficher les statistiques principales du profil en long.
+
+.. |statistics| image:: ./icons/statistics.png
+                :scale: 50% 
+
 |interactive_edition| Interactive edition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
@@ -378,13 +397,29 @@ Permet d'activer ou désactiver l'accrochage sur un profil en long.
 Annotation
 **********
 
-|add_text| Add a text
-^^^^^^^^^^^^^^^^^^^^^
+|add_ellipse| Add an ellipe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
-Permet d'ajouter un texte.
+Permet d'ajouter une ellipse.
 
-.. |add_text| image:: ./icons/add_text.png
-              :scale: 50% 
+.. |add_ellipse| image:: ./icons/add_ellipse.png
+                 :scale: 50% 
+
+|add_horizontal_annotation| Add a horizontal annotation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'ajouter une annotation horizontale.
+
+.. |add_horizontal_annotation| image:: ./icons/add_horizontal_annotation.png
+                               :scale: 50% 
+
+|add_interval| Add an interval
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'ajouter un intervalle.
+
+.. |add_interval| image:: ./icons/add_interval.png
+                  :scale: 50% 
 
 |add_line| Add a line
 ^^^^^^^^^^^^^^^^^^^^^
@@ -393,30 +428,6 @@ Permet d'ajouter une ligne.
 
 .. |add_line| image:: ./icons/add_line.png
               :scale: 50% 
-          
-|add_vertical_annotation| Add a vertical annotation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                
-Permet d'ajouter une annotation verticale.
-
-.. |add_vertical_annotation| image:: ./icons/add_vertical_annotation.png
-                             :scale: 50% 
-                        
-|add_horizontal_annotation| Add a horizontal annotation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                
-Permet d'ajouter une annotation horizontale.
-
-.. |add_horizontal_annotation| image:: ./icons/add_horizontal_annotation.png
-                               :scale: 50% 
-                          
-|add_interval| Add an interval
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                
-Permet d'ajouter un intervalle.
-
-.. |add_interval| image:: ./icons/add_interval.png
-                  :scale: 50% 
 
 |add_rectangle| Add a rectangle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -426,21 +437,34 @@ Permet d'ajouter un rectangle.
 .. |add_rectangle| image:: ./icons/add_rectangle.png
                    :scale: 50% 
 
-|add_arc| Add an arc
-^^^^^^^^^^^^^^^^^^^^
+|add_text| Add a text
+^^^^^^^^^^^^^^^^^^^^^
                 
-Permet d'ajouter un arc d'ellipse.
+Permet d'ajouter un texte.
 
-.. |add_arc| image:: ./icons/add_arc.png
-             :scale: 50% 
-             
-|import_vertical_annotations| Import vertical annotations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. |add_text| image:: ./icons/add_text.png
+              :scale: 50% 
+
+|add_vertical_annotation| Add a vertical annotation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
-Permet d'importer plusieurs annotations verticales.
+Permet d'ajouter une annotation verticale.
+
+.. |add_vertical_annotation| image:: ./icons/add_vertical_annotation.png
+                             :scale: 50% 
+             
+|import_vertical_annotations| Import vertical annotations from .txt file
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'importer plusieurs annotations verticales depuis un fichier .txt.
 
 .. |import_vertical_annotations| image:: ./icons/import_vertical_annotations.png
                                  :scale: 50% 
+
+Import vertical annotations from .dbf file
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                
+Permet d'importer plusieurs annotations verticales depuis un fichier .dbf.
 
 |polygon_from_txt| Polygon from .txt file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -460,25 +484,10 @@ Polygon from two profiles
                 
 Permet d'ajouter un polygone depuis deux profils en long.
 
-Import polygon coordinates
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-                
-Permet d'importer les coordonnées d'un polygone depuis un fichier .txt.
-
-Polygon from single profile
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Permet de créer un polygone à partir d'un profil en long.
-                
-Polygon from two profiles
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Permet de créer un polygone délimité par deux profils en long.
-
 |adjust_annotations| Adjust annotations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
-Permet d'ajuster les annotations sélectionnées.
+Permet d'ajuster les annotations verticales sélectionnées.
 
 .. |adjust_annotations| image:: ./icons/adjust_annotations.png
                         :scale: 50% 
@@ -563,6 +572,14 @@ Permet d'afficher des informations au sujet de pyLong.
 
 .. |about_pylong| image:: ./icons/about_pylong.png
                   :scale: 50% 
+
+|warning| Warning
+^^^^^^^^^^^^^^^^^
+
+Permet d'afficher le message d'avertissement lié à l'utilisation de pyLong.
+
+.. |warning| image:: ./icons/warning.png
+             :scale: 50% 
 
 |onf| www.onf.fr
 ^^^^^^^^^^^^^^^^
