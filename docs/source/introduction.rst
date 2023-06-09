@@ -19,11 +19,13 @@ pyLong, introduction
 
 Les principales fonctionnalités de **pyLong** sont:
 
-- **importation** de profils en long aux formats *.txt*, (à venir: *.shp* et *.dbf*);
-- **simplification automatisée** du profil en long avec, au choix, l'algorithme de *Visvalingman & Wyatt* (ou à venir: l'algorithme de *Ramer-Douglas-Peucker*);
+- **importation** de profils en long aux formats *.txt*, *.shp* et *.dbf*;
+- **simplification automatisée** du profil en long avec, au choix, l'algorithme de *Visvalingman & Wyatt* ou l'algorithme de *Ramer-Douglas-Peucker*;
 - **simplification interactive** du profil en long avec l'ajout ou la suppression manuelle de points;
+- **construction géométrique** de points;
 - **affichage** des pentes longitudinales, en degré ou en pourcentage;
 - **ajout** d'annotations;
+- **importation et exportation** de fichiers de style graphique;
 - **mises en page** multiples et personnalisables;
 - **toolbox** comprenant notamment des outils dédiés à l'hydraulique torrentielle et aux mouvements de terrain;
 - **exportation** dans divers formats pour insertion dans des documents d'étude, rapports d'expertise et publications scientifiques.
