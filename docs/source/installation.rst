@@ -4,7 +4,7 @@ Installation
 .. note::
    - **pyLong** est diffusé sous les termes de son `contrat de licence`_.
    
-..  _contrat de licence: contrat
+..  _contrat de licence: contrat.html
 
 Windows
 *******
