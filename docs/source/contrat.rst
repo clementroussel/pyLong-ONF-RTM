@@ -19,7 +19,8 @@ L’ONF détient tous les droits de propriété intellectuelle liés au Logiciel
 2.3 Aucune modification. Vous n’êtes pas autorisé à modifier, à adapter, à traduire ou à créer des logiciels dérivés à partir du Logiciel. Vous n’êtes pas autorisé à effectuer de l’ingénierie inverse, à décompiler, à désassembler le Logiciel, ni à essayer de toute autre façon de découvrir le code source du Logiciel.
 
 3. Limitations.
-3.1 Avertissements. Vous n’êtes pas autorisé à copier le Logiciel sauf dans le cadre des dispositions énoncées à l’Article 2. Toute copie du Logiciel que vous effectuez doit contenir les mêmes mentions de droit d’auteur (« copyright ») et autres mentions de propriété que celles qui apparaissent dans ou sur le Logiciel.
+
+3.1. Avertissements. Vous n’êtes pas autorisé à copier le Logiciel sauf dans le cadre des dispositions énoncées à l’Article 2. Toute copie du Logiciel que vous effectuez doit contenir les mêmes mentions de droit d’auteur (« copyright ») et autres mentions de propriété que celles qui apparaissent dans ou sur le Logiciel.  
 3.2. Transfert. Vous ne pouvez pas louer, donner en crédit bail, sous-licencier, céder ou transférer vos droits relatifs au Logiciel, ou autoriser la copie de tout ou partie du Logiciel sur l’Ordinateur d’un autre utilisateur.
 
 4. Titularité des Droits de Propriété Intellectuelle. Protection des Droits d’Auteur (« Copyright »). Le Logiciel et toute copie autorisée que vous effectuez sont la propriété intellectuelle de l’ONF. Le présent Contrat ne vous concède aucun droit de propriété intellectuelle sur le Logiciel.
