@@ -21,6 +21,7 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    :caption: Sommaire
 
    introduction
+   contrat de licence
    installation
    commandes
    toolbox
