@@ -397,7 +397,7 @@ Permet d'activer ou désactiver l'accrochage sur un profil en long.
 Annotation
 **********
 
-|add_ellipse| Add an ellipe
+|add_ellipse| Add an ellipse
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
                 
 Permet d'ajouter une ellipse.
