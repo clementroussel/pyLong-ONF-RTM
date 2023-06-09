@@ -21,7 +21,7 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    :caption: Sommaire
 
    introduction
-   contrat de licence
+   contrat
    installation
    commandes
    toolbox
@@ -36,4 +36,4 @@ La nouvelle version de pyLong sera bientôt disponible !
 
 .. image:: ./images/pylong_23_06.png
    :align: center
-   :scale: 100%
+   :scale: 75%
