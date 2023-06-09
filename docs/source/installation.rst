@@ -2,10 +2,18 @@ Installation
 ############
 
 .. note::
-   - **pyLong** n'est actuellement disponible que pour le système d'exploitation *Windows*.
-   - **pyLong** est diffusé sous les termes de la `GNU General Public License v3.0`_.
+   - **pyLong** est diffué sous les termes de son **`contrat de licence`_**.
    
-..  _GNU General Public License v3.0:  https://choosealicense.com/licenses/gpl-3.0/
+..  _contrat de licence: contrat
+
+Windows
+*******
+
+macOS
+*****
+
+Linux
+*****
 
 1. Télécharger
 ^^^^^^^^^^^^^^
