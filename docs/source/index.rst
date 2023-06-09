@@ -32,7 +32,7 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
 Actualité
 #########
 
-La nouvelle version de pyLong sera bientôt disponible !
+La nouvelle version de **pyLong** sera bientôt disponible !
 
 .. image:: ./images/pylong_23_06.png
    :align: center
