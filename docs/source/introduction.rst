@@ -35,6 +35,6 @@ Les principales fonctionnalités de **pyLong** sont:
 
 Afin de contribuer à sa diffusion, nous vous invitons à citer **pyLong** dans vos productions en utilisant la référence suivante:
 
-- ONF-RTM. pyLong [Logiciel interfacé et librairie Python de visualisation, d'édition, de mise en page, d’analyse et de traitement de profils en long]. https://pylong.readthedocs.io/
+- ONF-RTM. pyLong [Logiciel interfacé et librairie Python de visualisation, d'édition, de mise en page, d’analyse et de traitement de profils en long]. https://pylong-onf-rtm.readthedocs.io/
 
-- ONF-RTM. pyLong [Interfaced software and Python library for viewing, editing, layout, analysis and processing of longitudinal profiles]. https://pylong.readthedocs.io/
+- ONF-RTM. pyLong [Interfaced software and Python library for viewing, editing, layout, analysis and processing of longitudinal profiles]. https://pylong-onf-rtm.readthedocs.io/
