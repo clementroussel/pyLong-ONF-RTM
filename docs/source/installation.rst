@@ -2,7 +2,7 @@ Installation
 ############
 
 .. note::
-   - **pyLong** est diffué sous les termes de son **`contrat de licence`_**.
+   - **pyLong** est diffusé sous les termes de son `contrat de licence`_.
    
 ..  _contrat de licence: contrat
 
