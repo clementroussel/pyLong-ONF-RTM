@@ -28,3 +28,11 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    references
    contact
 
+Actualité
+#########
+
+La nouvelle version de pyLong sera bientôt disponible !
+
+.. image:: ./images/pylong_23_06.png
+   :align: center
+   :scale: 100%
