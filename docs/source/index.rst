@@ -1,4 +1,4 @@
-.. image:: ./icones/onf_rtm.png
+.. image:: ./logos/onf_rtm.png
    :align: center
    :scale: 10%
    
