@@ -27,6 +27,7 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    toolbox
    tutoriels   
    references
+   versions
    contact
 
 Actualité
