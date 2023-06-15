@@ -25,7 +25,8 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    installation
    commandes
    toolbox
-   tutoriels   
+   tutoriels
+   pylong_et_qgis   
    references
    versions
    contact
