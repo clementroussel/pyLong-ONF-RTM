@@ -9,12 +9,6 @@ Installation
 Windows
 *******
 
-macOS
-*****
-
-Linux
-*****
-
 1. Télécharger
 ^^^^^^^^^^^^^^
 

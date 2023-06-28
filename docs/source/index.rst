@@ -29,15 +29,4 @@ Bienvenue sur la documentation du projet **pyLong**. Retrouvez ici toutes les in
    pylong_et_qgis   
    references
    versions
-   contact
-
-Actualité
-#########
-
-La nouvelle version de **pyLong** sera bientôt disponible !
-
-.. image:: ./images/pylong_23_06.png
-   :align: center
-   :scale: 75%
-
-|
+   contact|
